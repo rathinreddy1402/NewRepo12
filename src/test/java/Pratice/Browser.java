@@ -32,6 +32,7 @@ public class Browser {
   driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
 		
 		//1st commit
+  //2nd commit
 	}
 
 }

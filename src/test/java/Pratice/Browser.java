@@ -30,6 +30,8 @@ public class Browser {
   Thread.sleep(2000);
   driver.findElement(By.xpath("//img[@src='themes/softed/images/user.PNG']")).click();
   driver.findElement(By.xpath("//a[text()='Sign Out']")).click();
+		
+		//1st commit
 	}
 
 }
